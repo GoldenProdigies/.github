@@ -1,6 +1,10 @@
-![Golden Aleskei's icon](https://github.com/Golden-Aleksei/.github/blob/c8950d3207ecf449ff2b37f9901f8bfc8b62a0ba/profile/Golden%20Al.webp)
-# Golden Aleksei #18592
+![Golden Prodigies' icon]()
+# 18592 Golden Prodigies
 ## About us
-* We are a FTC Robotics Team at Largo High School
+- Founded in 2024
+- Self and school funded
+- Public, School-Based Club
+- 3rd place Connect Regional (2025)
 
-
+## Our repositories:
+- [2026-2027 Codebase](https://github.com/GoldenProdigies/2026-2027-Codebase) 
