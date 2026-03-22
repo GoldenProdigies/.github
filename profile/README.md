@@ -1,4 +1,4 @@
-![Golden Prodigies' icon]()
+![Golden Prodigies' icon](https://github.com/GoldenProdigies/.github/blob/c36174a8b28b4c43d7645b65f8c054c22c4ede9f/profile/Logo.png)
 # 18592 Golden Prodigies
 ## About us
 - Founded in 2024
